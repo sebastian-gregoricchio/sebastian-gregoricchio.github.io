@@ -4,4 +4,4 @@
 An R-package for daily tasks required to handle biological data as well as avoid re-coding of small functions for quick but necessary data managing.
 
 # Contact
-For any information contact [Sebastian Gregoricchio](mailto: sebastian.gregoricchio@gmail.com).
+For any information contact [Sebastian Gregoricchio](mail to: sebastian.gregoricchio@gmail.com).
