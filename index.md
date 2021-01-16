@@ -10,6 +10,7 @@ For any information contact [sebastian.gregoricchio@gmail.com](mailto:sebastian.
 
 <br/><br/>
 <br/><br/>
--------------------
+
+----------------------------------------------------------------------------------------------
 
 ![Visitor count: ](https://profile-counter.glitch.me/sebastian-gregoricchio/count.svg)
