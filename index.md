@@ -6,3 +6,9 @@ An R-package for daily tasks required to handle biological data as well as avoid
 <br/><br/>
 # Contact
 For any information contact [sebastian.gregoricchio@gmail.com](mailto:sebastian.gregoricchio@gmail.com).
+
+
+<br/><br/>
+<br/><br/>
+-------------------
+![Visitor count: ](https://profile-counter.glitch.me/sebastian-gregoricchio/count.svg)
