@@ -1,3 +1,6 @@
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
 # Repositories
 
 ## <img src="https://sebastian-gregoricchio.github.io/Rseb/Rseb_logo.svg" align="left" height = 120/> [Rseb](https://sebastian-gregoricchio.github.io/Rseb/) ![release](https://img.shields.io/github/v/release/sebastian-gregoricchio/Rseb) ![repo-size](https://shields.io/github/repo-size/sebastian-gregoricchio/Rseb) ![update](https://badges.pufler.dev/updated/sebastian-gregoricchio/Rseb) <a class="github-button" href="https://github.com/sebastian-gregoricchio/Rseb/fork" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork sebastian-gregoricchio/Rseb on GitHub">Fork</a>
