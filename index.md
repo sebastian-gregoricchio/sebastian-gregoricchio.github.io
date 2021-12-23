@@ -11,9 +11,11 @@
 An R-package for daily tasks required to handle biological data as well as avoid re-coding of small functions for quick but necessary data management.
 
 
+
 <br/><br/>
-## [<img src="https://sebastian-gregoricchio.github.io/snakeATAC/images/snakeATAC_logo.svg" align="left" height = 150/>](https://sebastian-gregoricchio.github.io/snakeATAC)
-[snakeATAC](https://sebastian-gregoricchio.github.io/snakeATAC/)
+## [snakeATAC](https://sebastian-gregoricchio.github.io/snakeATAC/)
+
+[<img src="https://sebastian-gregoricchio.github.io/snakeATAC/images/snakeATAC_logo.svg" align="left" height = 150/>](https://sebastian-gregoricchio.github.io/snakeATAC)
 ![release](https://img.shields.io/github/v/release/sebastian-gregoricchio/snakeATAC)
 ![repo-size](https://shields.io/github/repo-size/sebastian-gregoricchio/snakeATAC)
 ![update](https://badges.pufler.dev/updated/sebastian-gregoricchio/snakeATAC)
