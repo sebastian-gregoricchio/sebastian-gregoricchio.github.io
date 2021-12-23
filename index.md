@@ -1,7 +1,8 @@
 # Repositories
 
-## [<img src="https://sebastian-gregoricchio.github.io/Rseb/Rseb_logo.svg" align="left" height = 150/>](https://sebastian-gregoricchio.github.io/Rseb)
-[Rseb](https://sebastian-gregoricchio.github.io/Rseb/)
+## [Rseb](https://sebastian-gregoricchio.github.io/Rseb/)
+
+[<img src="https://sebastian-gregoricchio.github.io/Rseb/Rseb_logo.svg" align="left" height = 150/>](https://sebastian-gregoricchio.github.io/Rseb)
 ![release](https://img.shields.io/github/v/release/sebastian-gregoricchio/Rseb)
 ![repo-size](https://shields.io/github/repo-size/sebastian-gregoricchio/Rseb)
 ![update](https://badges.pufler.dev/updated/sebastian-gregoricchio/Rseb)
