@@ -22,7 +22,7 @@ An R-package for daily tasks required to handle biological data as well as avoid
 [![forks](https://img.shields.io/github/forks/sebastian-gregoricchio/snakeATAC?style=social)](https://github.com/sebastian-gregoricchio/snakeATAC/fork)
 <!-- ![update](https://badges.pufler.dev/updated/sebastian-gregoricchio/snakeATAC) -->
 
-[Coming soon] Snakemake pipeline for analysis and normalization of ATAC-seq data starting from fastq.gz files.
+Snakemake pipeline for analysis and normalization of ATAC-seq data starting from fastq.gz files.
 
 
 
