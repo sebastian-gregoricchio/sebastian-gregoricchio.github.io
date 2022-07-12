@@ -16,7 +16,7 @@ An R-package for daily tasks required to handle biological data as well as avoid
 <br/><br/>
 ## [snakeATAC](https://sebastian-gregoricchio.github.io/snakeATAC/)
 
-[<img src="https://sebastian-gregoricchio.github.io/snakeATAC/images/snakeATAC_logo.svg" align="left" height=150/>](https://sebastian-gregoricchio.github.io/snakeATAC)
+[<img src="https://github.com/sebastian-gregoricchio/snakeATAC/blob/main/resources/snakeATAC_logo.svg" align="left" height=150/>](https://sebastian-gregoricchio.github.io/snakeATAC)
 ![release](https://img.shields.io/github/v/release/sebastian-gregoricchio/snakeATAC)
 ![repo-size](https://shields.io/github/repo-size/sebastian-gregoricchio/snakeATAC)
 ![update](https://badges.pufler.dev/updated/sebastian-gregoricchio/snakeATAC)
@@ -28,7 +28,7 @@ An R-package for daily tasks required to handle biological data as well as avoid
 
 <br/><br/>
 # Contact
-For any information contact [sebastian.gregoricchio@gmail.com](mailto:sebastian.gregoricchio@gmail.com).
+For any information contact [s.gregoricchio@nki.nl](mailto:s.gregoricchio@nki.nl).
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-9209-5403" href="https://orcid.org/0000-0001-9209-5403" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"> https://orcid.org/0000-0001-9209-5403</a></div>
 
@@ -38,4 +38,3 @@ For any information contact [sebastian.gregoricchio@gmail.com](mailto:sebastian.
 ----------------------------------------------------------------------------------------------
 
 ![Visitor count: ](https://profile-counter.glitch.me/sebastian-gregoricchio/count.svg)
-
