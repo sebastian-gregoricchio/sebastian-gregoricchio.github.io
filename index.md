@@ -24,6 +24,8 @@ An R-package for daily tasks required to handle biological data as well as avoid
 
 Snakemake pipeline for analysis and normalization of ATAC-seq data starting from fastq.gz files.
 
+<br/><br/>
+
 
 <br/><br/>
 ## [CUTEmake](https://sebastian-gregoricchio.github.io/CUTEmake/)
