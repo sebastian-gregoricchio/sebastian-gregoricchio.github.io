@@ -25,6 +25,18 @@ An R-package for daily tasks required to handle biological data as well as avoid
 Snakemake pipeline for analysis and normalization of ATAC-seq data starting from fastq.gz files.
 
 
+<br/><br/>
+## [CUTEmake](https://sebastian-gregoricchio.github.io/CUTEmake/)
+
+[<img src="https://raw.githubusercontent.com/sebastian-gregoricchio/cuteMAKE/main/resources/cuteMAKE_logo.svg" align="left" height=150/>](https://sebastian-gregoricchio.github.io/cuteMAKE)
+![release](https://img.shields.io/github/v/release/sebastian-gregoricchiocuteMAKE)
+![repo-size](https://shields.io/github/repo-size/sebastian-gregoricchio/cuteMAKE)
+[![forks](https://img.shields.io/github/forks/sebastian-gregoricchio/cuteMAKE?style=social)](https://github.com/sebastian-gregoricchio/cuteMAKE/fork)
+<!-- ![update](https://badges.pufler.dev/updated/sebastian-gregoricchio/cuteMAKE) -->
+
+[Coming soon] Snakemake pipeline for analysis and normalization (without SPIKE-IN) of CUT&Tag data starting from fastq.gz files.
+
+
 
 <br/><br/>
 # Contact
