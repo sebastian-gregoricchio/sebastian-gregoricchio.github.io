@@ -1,5 +1,19 @@
 # Repositories
 
+## [CUTEmake](https://sebastian-gregoricchio.github.io/CUTEmake/)
+
+[<img src="https://raw.githubusercontent.com/sebastian-gregoricchio/cuteMAKE/main/resources/cuteMAKE_logo.svg" align="left" height=150/>](https://sebastian-gregoricchio.github.io/cuteMAKE)
+![release](https://img.shields.io/github/v/release/sebastian-gregoricchiocuteMAKE)
+![repo-size](https://shields.io/github/repo-size/sebastian-gregoricchio/cuteMAKE)
+[![forks](https://img.shields.io/github/forks/sebastian-gregoricchio/cuteMAKE?style=social)](https://github.com/sebastian-gregoricchio/cuteMAKE/fork)
+<!-- ![update](https://badges.pufler.dev/updated/sebastian-gregoricchio/cuteMAKE) -->
+
+[Manual coming soon] Snakemake pipeline for analysis and normalization (without SPIKE-IN) of CUT&Tag data starting from fastq.gz files.
+
+<br/><br/>
+
+<br/><br/>
+
 ## [Rseb](https://sebastian-gregoricchio.github.io/Rseb/)
 
 [<img src="https://sebastian-gregoricchio.github.io/Rseb/Rseb_logo.svg" align="left" height=150/>](https://sebastian-gregoricchio.github.io/Rseb)
@@ -12,8 +26,8 @@ An R-package for daily tasks required to handle biological data as well as avoid
 
 <br/><br/>
 
-
 <br/><br/>
+
 ## [snakeATAC](https://sebastian-gregoricchio.github.io/snakeATAC/)
 
 [<img src="https://raw.githubusercontent.com/sebastian-gregoricchio/snakeATAC/main/resources/snakeATAC_logo.svg" align="left" height=150/>](https://sebastian-gregoricchio.github.io/snakeATAC)
@@ -26,18 +40,17 @@ Snakemake pipeline for analysis and normalization of ATAC-seq data starting from
 
 <br/><br/>
 
-
 <br/><br/>
-## [CUTEmake](https://sebastian-gregoricchio.github.io/CUTEmake/)
 
-[<img src="https://raw.githubusercontent.com/sebastian-gregoricchio/cuteMAKE/main/resources/cuteMAKE_logo.svg" align="left" height=150/>](https://sebastian-gregoricchio.github.io/cuteMAKE)
-![release](https://img.shields.io/github/v/release/sebastian-gregoricchiocuteMAKE)
-![repo-size](https://shields.io/github/repo-size/sebastian-gregoricchio/cuteMAKE)
-[![forks](https://img.shields.io/github/forks/sebastian-gregoricchio/cuteMAKE?style=social)](https://github.com/sebastian-gregoricchio/cuteMAKE/fork)
-<!-- ![update](https://badges.pufler.dev/updated/sebastian-gregoricchio/cuteMAKE) -->
+## [snHiC](https://sebastian-gregoricchio.github.io/snHiC/)
 
-[Coming soon] Snakemake pipeline for analysis and normalization (without SPIKE-IN) of CUT&Tag data starting from fastq.gz files.
+[<img src="https://raw.githubusercontent.com/sebastian-gregoricchio/snHiC/main/resources/snHiC_logo.svg" align="left" height=150/>](https://sebastian-gregoricchio.github.io/snHiC)
+![release](https://img.shields.io/github/v/release/sebastian-gregoricchio/snHiC)
+![repo-size](https://shields.io/github/repo-size/sebastian-gregoricchio/snHiC)
+[![forks](https://img.shields.io/github/forks/sebastian-gregoricchio/snHiC?style=social)](https://github.com/sebastian-gregoricchio/snHiC/fork)
+<!-- ![update](https://badges.pufler.dev/updated/sebastian-gregoricchio/snakeATAC) -->
 
+Snakemake pipeline for analysis and normalization of Hi-C data data starting from fastq.gz files. It includes the possibility to perform grouped analyses, TAD and loops detections, as well as differential compartment analyses.
 
 
 <br/><br/>
