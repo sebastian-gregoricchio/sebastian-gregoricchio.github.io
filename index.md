@@ -2,10 +2,10 @@
 
 ## [CUTEmake](https://sebastian-gregoricchio.github.io/CUTEmake/)
 
-[<img src="https://raw.githubusercontent.com/sebastian-gregoricchio/cuteMAKE/main/resources/cuteMAKE_logo.svg" align="left" height=150/>](https://sebastian-gregoricchio.github.io/cuteMAKE)
-![release](https://img.shields.io/github/v/release/sebastian-gregoricchiocuteMAKE)
-![repo-size](https://shields.io/github/repo-size/sebastian-gregoricchio/cuteMAKE)
-[![forks](https://img.shields.io/github/forks/sebastian-gregoricchio/cuteMAKE?style=social)](https://github.com/sebastian-gregoricchio/cuteMAKE/fork)
+[<img src="https://raw.githubusercontent.com/sebastian-gregoricchio/cuteMAKE/main/resources/CUTEmake_logo.svg" align="left" height=150/>](https://sebastian-gregoricchio.github.io/CUTEmake)
+![release](https://img.shields.io/github/v/release/sebastian-gregoricchio/CUTEmake)
+![repo-size](https://shields.io/github/repo-size/sebastian-gregoricchio/CUTEmake)
+[![forks](https://img.shields.io/github/forks/sebastian-gregoricchio/CUTEmake?style=social)](https://github.com/sebastian-gregoricchio/CUTEmake/fork)
 <!-- ![update](https://badges.pufler.dev/updated/sebastian-gregoricchio/cuteMAKE) -->
 
 [Manual coming soon] Snakemake pipeline for analysis and normalization (without SPIKE-IN) of CUT&Tag data starting from fastq.gz files.
