@@ -36,7 +36,7 @@ An R-package for daily tasks required to handle biological data as well as avoid
 [![forks](https://img.shields.io/github/forks/sebastian-gregoricchio/snakeATAC?style=social)](https://github.com/sebastian-gregoricchio/snakeATAC/fork)
 <!-- ![update](https://badges.pufler.dev/updated/sebastian-gregoricchio/snakeATAC) -->
 
-Snakemake pipeline for analysis and normalization of ATAC-seq data starting from fastq.gz files.
+Snakemake pipeline for analysis and normalization of ATAC-seq data starting from fastq.gz files. It includes the possibility to call SNPs and InDels at ATAC-seq peaks (tested only for human samples).
 
 <br/><br/>
 
@@ -50,7 +50,7 @@ Snakemake pipeline for analysis and normalization of ATAC-seq data starting from
 [![forks](https://img.shields.io/github/forks/sebastian-gregoricchio/snHiC?style=social)](https://github.com/sebastian-gregoricchio/snHiC/fork)
 <!-- ![update](https://badges.pufler.dev/updated/sebastian-gregoricchio/snakeATAC) -->
 
-Snakemake pipeline for analysis and normalization of Hi-C data data starting from fastq.gz files. It includes the possibility to perform grouped analyses, TAD and loops detections, as well as differential compartment analyses.
+[Manual coming soon] Snakemake pipeline for analysis and normalization of Hi-C data data starting from fastq.gz files. It includes the possibility to perform grouped analyses, TAD and loops detections, as well as differential compartment analyses.
 
 
 <br/><br/>
