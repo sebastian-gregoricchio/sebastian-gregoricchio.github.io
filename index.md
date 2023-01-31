@@ -14,6 +14,22 @@
 
 <br/><br/>
 
+
+## [multiDUMP](https://sebastian-gregoricchio.github.io/multiDUMP/)
+
+[<img src="https://raw.githubusercontent.com/sebastian-gregoricchio/multiDUMP/main/resources/multiDUMP_logo.svg" align="left" height=150/>](https://sebastian-gregoricchio.github.io/multiDUMP)
+![release](https://img.shields.io/github/v/release/sebastian-gregoricchio/multiDUMP)
+![repo-size](https://shields.io/github/repo-size/sebastian-gregoricchio/multiDUMP)
+[![forks](https://img.shields.io/github/forks/sebastian-gregoricchio/multiDUMP?style=social)](https://github.com/sebastian-gregoricchio/multiDUMP/fork)
+<!-- ![update](https://badges.pufler.dev/updated/sebastian-gregoricchio/multiDUMP) -->
+
+A simple snakemake based pipeline to parallelize the download of SRA data through fastq-dump.
+
+<br/><br/>
+
+<br/><br/>
+
+
 ## [Rseb](https://sebastian-gregoricchio.github.io/Rseb/)
 
 [<img src="https://sebastian-gregoricchio.github.io/Rseb/Rseb_logo.svg" align="left" height=150/>](https://sebastian-gregoricchio.github.io/Rseb)
@@ -50,7 +66,7 @@ Snakemake pipeline for analysis and normalization of ATAC-seq data starting from
 [![forks](https://img.shields.io/github/forks/sebastian-gregoricchio/snHiC?style=social)](https://github.com/sebastian-gregoricchio/snHiC/fork)
 <!-- ![update](https://badges.pufler.dev/updated/sebastian-gregoricchio/snakeATAC) -->
 
-[Manual coming soon] Snakemake pipeline for analysis and normalization of Hi-C data data starting from fastq.gz files. It includes the possibility to perform grouped analyses, TAD and loops detections, as well as differential compartment analyses.
+Snakemake pipeline for analysis and normalization of Hi-C data data starting from fastq.gz files. It includes the possibility to perform grouped analyses, TAD and loops detections, as well as differential compartment analyses.
 
 
 <br/><br/>
