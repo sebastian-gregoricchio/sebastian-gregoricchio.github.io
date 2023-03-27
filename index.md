@@ -70,14 +70,16 @@ Snakemake pipeline for analysis and normalization of Hi-C data data starting fro
 
 
 <br/><br/>
+
 # Contact
-For any information contact [s.gregoricchio@nki.nl](mailto:s.gregoricchio@nki.nl).
+For any information contact [s.gregoricchio@nki.nl](mailto:s.gregoricchio@nki.nl) [![contributors](https://contrib.rocks/image?repo=sebastian-gregoricchio/sebastian-gregoricchio.github.io)](https://sebastian-gregoricchio.github.io/).
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-9209-5403" href="https://orcid.org/0000-0001-9209-5403" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"> https://orcid.org/0000-0001-9209-5403</a></div>
-
 
 <br/><br/>
 
 ----------------------------------------------------------------------------------------------
 
 ![Visitor count: ](https://profile-counter.glitch.me/sebastian-gregoricchio/count.svg)
+
+![Repository stats](https://github-readme-stats.vercel.app/api?username=sebastian-gregoricchio&show_icons=true)
