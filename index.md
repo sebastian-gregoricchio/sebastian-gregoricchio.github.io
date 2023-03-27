@@ -1,3 +1,7 @@
+![Repository stats](https://github-readme-stats.vercel.app/api?username=sebastian-gregoricchio&show_icons=true)
+
+------------------------------
+
 # Repositories
 
 ## [CUTEmake](https://sebastian-gregoricchio.github.io/CUTEmake/)
@@ -81,5 +85,3 @@ For any information contact [s.gregoricchio@nki.nl](mailto:s.gregoricchio@nki.nl
 ----------------------------------------------------------------------------------------------
 
 ![Visitor count: ](https://profile-counter.glitch.me/sebastian-gregoricchio/count.svg)
-
-![Repository stats](https://github-readme-stats.vercel.app/api?username=sebastian-gregoricchio&show_icons=true)
