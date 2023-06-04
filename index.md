@@ -70,7 +70,7 @@ Snakemake pipeline for analysis and normalization of ATAC-seq data starting from
 [![forks](https://img.shields.io/github/forks/sebastian-gregoricchio/snHiC?style=social)](https://github.com/sebastian-gregoricchio/snHiC/fork)
 <!-- ![update](https://badges.pufler.dev/updated/sebastian-gregoricchio/snakeATAC) -->
 
-Snakemake pipeline for analysis and normalization of Hi-C data data starting from fastq.gz files. It includes the possibility to perform grouped analyses, TAD and loops detections, as well as differential compartment analyses.
+Snakemake pipeline for analysis and normalization of Hi-C data data starting from fastq.gz files. It includes the possibility to perform grouped analyses, TAD, loops and stripes detections, as well as differential compartment and chromatin interaction analyses.
 
 
 <br/><br/>
