@@ -48,6 +48,20 @@ An R-package for daily tasks required to handle biological data as well as avoid
 
 <br/><br/>
 
+## [SPACCa](https://sebastian-gregoricchio.github.io/SPACCa/)
+
+[<img src="https://raw.githubusercontent.com/sebastian-gregoricchio/SPACCa/main/resources/SPACCa_logo.svg" align="left" height=150/>](https://sebastian-gregoricchio.github.io/SPACCa)
+![release](https://img.shields.io/github/v/release/sebastian-gregoricchio/SPACCa)
+![repo-size](https://shields.io/github/repo-size/sebastian-gregoricchio/SPACCa)
+[![forks](https://img.shields.io/github/forks/sebastian-gregoricchio/SPACCa?style=social)](https://github.com/sebastian-gregoricchio/SPACCa/fork)
+<!-- ![update](https://badges.pufler.dev/updated/sebastian-gregoricchio/SPACCa) -->
+
+*S*nakemake *P*ipeline for the *A*nalysis of *C*hIP-seq data in *Ca*ncer samples.
+
+<br/><br/>
+
+<br/><br/>
+
 ## [snakeATAC](https://sebastian-gregoricchio.github.io/snakeATAC/)
 
 [<img src="https://raw.githubusercontent.com/sebastian-gregoricchio/snakeATAC/main/resources/snakeATAC_logo.svg" align="left" height=150/>](https://sebastian-gregoricchio.github.io/snakeATAC)
@@ -68,7 +82,7 @@ Snakemake pipeline for analysis and normalization of ATAC-seq data starting from
 ![release](https://img.shields.io/github/v/release/sebastian-gregoricchio/snHiC)
 ![repo-size](https://shields.io/github/repo-size/sebastian-gregoricchio/snHiC)
 [![forks](https://img.shields.io/github/forks/sebastian-gregoricchio/snHiC?style=social)](https://github.com/sebastian-gregoricchio/snHiC/fork)
-<!-- ![update](https://badges.pufler.dev/updated/sebastian-gregoricchio/snakeATAC) -->
+<!-- ![update](https://badges.pufler.dev/updated/sebastian-gregoricchio/snHiC) -->
 
 Snakemake pipeline for analysis and normalization of Hi-C data data starting from fastq.gz files. It includes the possibility to perform grouped analyses, TAD, loops and stripes detections, as well as differential compartment and chromatin interaction analyses.
 
