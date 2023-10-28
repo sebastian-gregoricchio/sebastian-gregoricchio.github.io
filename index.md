@@ -19,6 +19,8 @@
 <br/><br/>
 
 
+
+
 ## [multiDUMP](https://sebastian-gregoricchio.github.io/multiDUMP/)
 
 [<img src="https://raw.githubusercontent.com/sebastian-gregoricchio/multiDUMP/main/resources/multiDUMP_logo.svg" class="padding" align="left" height=150/>](https://sebastian-gregoricchio.github.io/multiDUMP)
@@ -32,6 +34,8 @@ A simple snakemake based pipeline to parallelize the download of SRA data throug
 <br/><br/>
 
 <br/><br/>
+
+
 
 
 ## [Rseb](https://sebastian-gregoricchio.github.io/Rseb/)
@@ -48,6 +52,9 @@ An R-package for daily tasks required to handle biological data as well as avoid
 
 <br/><br/>
 
+
+
+
 ## [SPACCa](https://sebastian-gregoricchio.github.io/SPACCa/)
 
 [<img src="https://raw.githubusercontent.com/sebastian-gregoricchio/SPACCa/main/resources/SPACCa_logo.svg" class="padding" align="left" height=150/>](https://sebastian-gregoricchio.github.io/SPACCa)
@@ -61,6 +68,9 @@ An R-package for daily tasks required to handle biological data as well as avoid
 <br/><br/>
 
 <br/><br/>
+
+
+
 
 ## [snakeATAC](https://sebastian-gregoricchio.github.io/snakeATAC/)
 
@@ -76,6 +86,8 @@ Snakemake pipeline for analysis and normalization of ATAC-seq data starting from
 
 <br/><br/>
 
+
+
 ## [snHiC](https://sebastian-gregoricchio.github.io/snHiC/)
 
 [<img src="https://raw.githubusercontent.com/sebastian-gregoricchio/snHiC/main/resources/snHiC_logo.svg" class="padding" align="left" height=150/>](https://sebastian-gregoricchio.github.io/snHiC)
@@ -85,6 +97,8 @@ Snakemake pipeline for analysis and normalization of ATAC-seq data starting from
 <!-- ![update](https://badges.pufler.dev/updated/sebastian-gregoricchio/snHiC) -->
 
 Snakemake pipeline for analysis and normalization of Hi-C data data starting from fastq.gz files. It includes the possibility to perform grouped analyses, TAD, loops and stripes detections, as well as differential compartment and chromatin interaction analyses.
+
+
 
 
 <br/><br/>
