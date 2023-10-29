@@ -14,6 +14,8 @@
 
 [Manual coming soon] Snakemake pipeline for analysis and normalization (without SPIKE-IN) of CUT&Tag data starting from fastq.gz files.
 
+[![contributors](https://contrib.rocks/image?repo=sebastian-gregoricchio/CUTEmake)](https://github.com/sebastian-gregoricchio)
+
 <br/><br/>
 
 <br/><br/>
@@ -30,6 +32,8 @@
 <!-- ![update](https://badges.pufler.dev/updated/sebastian-gregoricchio/multiDUMP) -->
 
 A simple snakemake based pipeline to parallelize the download of SRA data through fastq-dump.
+
+[![contributors](https://contrib.rocks/image?repo=sebastian-gregoricchio/multiDUMP)](https://github.com/sebastian-gregoricchio)
 
 <br/><br/>
 
@@ -48,6 +52,8 @@ A simple snakemake based pipeline to parallelize the download of SRA data throug
 
 An R-package for daily tasks required to handle biological data as well as avoid re-coding of small functions for quick but necessary data management.
 
+[![contributors](https://contrib.rocks/image?repo=sebastian-gregoricchio/Rseb)](https://github.com/sebastian-gregoricchio)
+
 <br/><br/>
 
 <br/><br/>
@@ -64,6 +70,8 @@ An R-package for daily tasks required to handle biological data as well as avoid
 <!-- ![update](https://badges.pufler.dev/updated/sebastian-gregoricchio/SPACCa) -->
 
 *S*nakemake *P*ipeline for the *A*nalysis of *C*hIP-seq data in *Ca*ncer samples.
+
+![contributors](https://contrib.rocks/image?repo=sebastian-gregoricchio/SPACCa)
 
 <br/><br/>
 
@@ -82,6 +90,8 @@ An R-package for daily tasks required to handle biological data as well as avoid
 
 Snakemake pipeline for analysis and normalization of ATAC-seq data starting from fastq.gz files. It includes the possibility to call SNPs and InDels at ATAC-seq peaks (tested only for human samples).
 
+[![contributors](https://contrib.rocks/image?repo=sebastian-gregoricchio/snakeATAC)](https://github.com/sebastian-gregoricchio)
+
 <br/><br/>
 
 <br/><br/>
@@ -96,15 +106,16 @@ Snakemake pipeline for analysis and normalization of ATAC-seq data starting from
 [![forks](https://img.shields.io/github/forks/sebastian-gregoricchio/snHiC?style=social)](https://github.com/sebastian-gregoricchio/snHiC/fork)
 <!-- ![update](https://badges.pufler.dev/updated/sebastian-gregoricchio/snHiC) -->
 
-Snakemake pipeline for analysis and normalization of Hi-C data data starting from fastq.gz files. It includes the possibility to perform grouped analyses, TAD, loops and stripes detections, as well as differential compartment and chromatin interaction analyses.
+Snakemake pipeline for analysis and normalization of Hi-C data starting from fastq.gz files. It includes the possibility to perform grouped analyses, TAD, loops and stripes detections, as well as differential compartment and chromatin interaction analyses.
+
+[![contributors](https://contrib.rocks/image?repo=sebastian-gregoricchio/snHiC)](https://github.com/sebastian-gregoricchio)
 
 
-
-
+<br>
 <br/><br/>
 
 # Contact
-[![contributors](https://contrib.rocks/image?repo=sebastian-gregoricchio/sebastian-gregoricchio.github.io)](https://sebastian-gregoricchio.github.io/) For any information contact [s.gregoricchio@nki.nl](mailto:s.gregoricchio@nki.nl).
+[![contributors](https://contrib.rocks/image?repo=sebastian-gregoricchio/sebastian-gregoricchio.github.io)](https://github.com/sebastian-gregoricchio) For any information contact [s.gregoricchio@nki.nl](mailto:s.gregoricchio@nki.nl).
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-9209-5403" href="https://orcid.org/0000-0001-9209-5403" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"> https://orcid.org/0000-0001-9209-5403</a></div>
 
