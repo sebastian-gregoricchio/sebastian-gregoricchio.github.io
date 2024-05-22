@@ -2,7 +2,7 @@
 
 ------------------------------
 
-# Repositories
+# Pipelines
 
 ## [CUTEmake](https://sebastian-gregoricchio.github.io/CUTEmake/)
 
@@ -42,25 +42,6 @@ A simple snakemake based pipeline to parallelize the download of SRA data throug
 
 
 
-## [Rseb](https://sebastian-gregoricchio.github.io/Rseb/)
-
-[<img src="https://sebastian-gregoricchio.github.io/Rseb/Rseb_logo.svg" class="padding" align="left" height=150/>](https://sebastian-gregoricchio.github.io/Rseb)
-![release](https://img.shields.io/github/v/release/sebastian-gregoricchio/Rseb)
-![repo-size](https://shields.io/github/repo-size/sebastian-gregoricchio/Rseb)
-[![forks](https://img.shields.io/github/forks/sebastian-gregoricchio/Rseb?style=social)](https://github.com/sebastian-gregoricchio/Rseb/fork)
-<!-- ![update](https://badges.pufler.dev/updated/sebastian-gregoricchio/Rseb) -->
-
-An R-package for daily tasks required to handle biological data as well as avoid re-coding of small functions for quick but necessary data management.
-
-[<img src="https://contrib.rocks/image?repo=sebastian-gregoricchio/Rseb" align="left" height=30/>](https://github.com/sebastian-gregoricchio)
-
-<br/><br/>
-
-<br/><br/>
-
-
-
-
 ## [SPACCa](https://sebastian-gregoricchio.github.io/SPACCa/)
 
 [<img src="https://raw.githubusercontent.com/sebastian-gregoricchio/SPACCa/main/resources/SPACCa_logo.svg" class="padding" align="left" height=150/>](https://sebastian-gregoricchio.github.io/SPACCa)
@@ -70,6 +51,8 @@ An R-package for daily tasks required to handle biological data as well as avoid
 <!-- ![update](https://badges.pufler.dev/updated/sebastian-gregoricchio/SPACCa) -->
 
 *S*nakemake *P*ipeline for the *A*nalysis of *C*hIP-seq data in *Ca*ncer samples.
+
+**_Zwart lab_** modified version: [ChIP_Zwart](https://github.com/sebastian-gregoricchio/ChIP_Zwart/). (works only on NKI servers because annotations paths are hard-coded)
 
 <img src="https://contrib.rocks/image?repo=sebastian-gregoricchio/SPACCa" align="left" height=30/>
 
@@ -109,6 +92,46 @@ Snakemake pipeline for analysis and normalization of ATAC-seq data starting from
 Snakemake pipeline for analysis and normalization of Hi-C data starting from fastq.gz files. It includes the possibility to perform grouped analyses, TAD, loops and stripes detections, as well as differential compartment and chromatin interaction analyses.
 
 [<img src="https://contrib.rocks/image?repo=sebastian-gregoricchio/snHiC" align="left" height=30/>](https://github.com/sebastian-gregoricchio)
+
+<br/><br/>
+
+<br/><br/>
+
+--------------------------------------------------------
+
+
+# R-packages
+
+## [DEprot](https://sebastian-gregoricchio.github.io/DEprot/)
+
+[<img src="https://sebastian-gregoricchio.github.io/DEprot/DEprot_logo.svg" class="padding" align="left" height=150/>](https://sebastian-gregoricchio.github.io/DEprot)
+![release](https://img.shields.io/github/v/release/sebastian-gregoricchio/DEprot)
+![repo-size](https://shields.io/github/repo-size/sebastian-gregoricchio/DEprot)
+[![forks](https://img.shields.io/github/forks/sebastian-gregoricchio/DEprot?style=social)](https://github.com/sebastian-gregoricchio/DEprot/fork)
+<!-- ![update](https://badges.pufler.dev/updated/sebastian-gregoricchio/DEprot) -->
+
+An R-package to impute, normalize and perform differential analyses on proteomics data (LFQ-based) 
+
+[<img src="https://contrib.rocks/image?repo=sebastian-gregoricchio/DEprot" align="left" height=30/>](https://github.com/sebastian-gregoricchio)
+
+<br/><br/>
+
+<br/><br/>
+
+
+## [Rseb](https://sebastian-gregoricchio.github.io/Rseb/)
+
+[<img src="https://sebastian-gregoricchio.github.io/Rseb/Rseb_logo.svg" class="padding" align="left" height=150/>](https://sebastian-gregoricchio.github.io/Rseb)
+![release](https://img.shields.io/github/v/release/sebastian-gregoricchio/Rseb)
+![repo-size](https://shields.io/github/repo-size/sebastian-gregoricchio/Rseb)
+[![forks](https://img.shields.io/github/forks/sebastian-gregoricchio/Rseb?style=social)](https://github.com/sebastian-gregoricchio/Rseb/fork)
+<!-- ![update](https://badges.pufler.dev/updated/sebastian-gregoricchio/Rseb) -->
+
+An R-package for daily tasks required to handle biological data as well as avoid re-coding of small functions for quick but necessary data management.
+
+[<img src="https://contrib.rocks/image?repo=sebastian-gregoricchio/Rseb" align="left" height=30/>](https://github.com/sebastian-gregoricchio)
+
+
 
 
 <br>
