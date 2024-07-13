@@ -104,7 +104,7 @@ Snakemake pipeline for analysis and normalization of Hi-C data starting from fas
 
 ## [DEprot](https://sebastian-gregoricchio.github.io/DEprot/)
 
-[<img src="https://sebastian-gregoricchio.github.io/DEprot/DEprot_logo.svg" class="padding" align="left" height=150/>](https://sebastian-gregoricchio.github.io/DEprot)
+[<img src="https://sebastian-gregoricchio.github.io/DEprot/DEprot_logo.png" class="padding" align="left" height=150/>](https://sebastian-gregoricchio.github.io/DEprot)
 ![release](https://img.shields.io/github/v/release/sebastian-gregoricchio/DEprot)
 ![repo-size](https://shields.io/github/repo-size/sebastian-gregoricchio/DEprot)
 [![forks](https://img.shields.io/github/forks/sebastian-gregoricchio/DEprot?style=social)](https://github.com/sebastian-gregoricchio/DEprot/fork)
