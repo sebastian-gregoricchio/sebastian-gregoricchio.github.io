@@ -112,7 +112,7 @@ Snakemake pipeline for analysis and normalization of Hi-C data starting from fas
 
 An R-package to impute, normalize and perform differential analyses on proteomics data (LFQ-based) 
 
-[<img src="https://contrib.rocks/image?repo=sebastian-gregoricchio/DEprot" align="left" height=30/>](https://github.com/sebastian-gregoricchio)
+<img src="https://badges.pufler.dev/contributors/sebastian-gregoricchio/DEprot?size=50&padding=5&bots=true" align="left" height=30/>
 
 <br/><br/>
 
