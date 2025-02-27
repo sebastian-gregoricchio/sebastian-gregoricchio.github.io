@@ -133,6 +133,26 @@ An R-package for daily tasks required to handle biological data as well as avoid
 
 
 
+<br/><br/>
+
+<br/><br/>
+
+
+## [power4omics](https://sebastian-gregoricchio.github.io/power4omics/)
+
+[<img src="https://sebastian-gregoricchio.github.io/power4omics/power4omics_logo.svg" class="padding" align="left" height=150/>](https://sebastian-gregoricchio.github.io/power4omics)
+![release](https://img.shields.io/github/v/release/sebastian-gregoricchio/power4omics)
+![repo-size](https://shields.io/github/repo-size/sebastian-gregoricchio/power4omics)
+[![forks](https://img.shields.io/github/forks/sebastian-gregoricchio/power4omics?style=social)](https://github.com/sebastian-gregoricchio/power4omics/fork)
+<!-- ![update](https://badges.pufler.dev/updated/sebastian-gregoricchio/Rseb) -->
+
+An R-package for power and sample size calculcation for omics data.
+
+[<img src="https://contrib.rocks/image?repo=sebastian-gregoricchio/power4omics" align="left" height=30/>](https://github.com/sebastian-gregoricchio)
+
+
+
+
 
 <br>
 <br/><br/>
