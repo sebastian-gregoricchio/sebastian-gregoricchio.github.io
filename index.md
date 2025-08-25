@@ -97,6 +97,23 @@ Snakemake pipeline for analysis and normalization of Hi-C data starting from fas
 
 <br/><br/>
 
+
+## [STARna](https://sebastian-gregoricchio.github.io/STARna/)
+
+[<img src="https://raw.githubusercontent.com/sebastian-gregoricchio/STARna/main/resources/STARna_logo.svg" class="padding" align="left" height=150/>](https://sebastian-gregoricchio.github.io/STARna)
+![release](https://img.shields.io/github/v/release/sebastian-gregoricchio/STARna)
+![repo-size](https://shields.io/github/repo-size/sebastian-gregoricchio/STARna)
+[![forks](https://img.shields.io/github/forks/sebastian-gregoricchio/STARna?style=social)](https://github.com/sebastian-gregoricchio/STARna/fork)
+<!-- ![update](https://badges.pufler.dev/updated/sebastian-gregoricchio/STARna) -->
+
+Snakemake pipline for the mapping and gene read counting of RNA-seq data using STAR.
+
+[<img src="https://contrib.rocks/image?repo=sebastian-gregoricchio/STARna" align="left" height=30/>](https://github.com/sebastian-gregoricchio)
+
+<br/><br/>
+
+<br/><br/>
+
 --------------------------------------------------------
 
 
@@ -138,18 +155,17 @@ An R-package for daily tasks required to handle biological data as well as avoid
 <br/><br/>
 
 
-## [power4omics](https://sebastian-gregoricchio.github.io/power4omics/)
+## [power4peaks](https://sebastian-gregoricchio.github.io/power4peaks/)
 
-[<img src="https://sebastian-gregoricchio.github.io/power4omics/power4omics_logo.svg" class="padding" align="left" height=150/>](https://sebastian-gregoricchio.github.io/power4omics)
-![release](https://img.shields.io/github/v/release/sebastian-gregoricchio/power4omics)
-![repo-size](https://shields.io/github/repo-size/sebastian-gregoricchio/power4omics)
-[![forks](https://img.shields.io/github/forks/sebastian-gregoricchio/power4omics?style=social)](https://github.com/sebastian-gregoricchio/power4omics/fork)
+[<img src="https://sebastian-gregoricchio.github.io/power4peaks/resources/power4peaks_logo.png" class="padding" align="left" height=150/>](https://sebastian-gregoricchio.github.io/power4peaks)
+![release](https://img.shields.io/github/v/release/sebastian-gregoricchio/power4peaks)
+![repo-size](https://shields.io/github/repo-size/sebastian-gregoricchio/power4peaks)
+[![forks](https://img.shields.io/github/forks/sebastian-gregoricchio/power4peaks?style=social)](https://github.com/sebastian-gregoricchio/power4peaks/fork)
 <!-- ![update](https://badges.pufler.dev/updated/sebastian-gregoricchio/Rseb) -->
 
-An R-package for power and sample size calculcation for omics data.
+An R-package for power and sample size calculcation for ChIP/ATAC/CUT&Tag data differential analyses.
 
-[<img src="https://contrib.rocks/image?repo=sebastian-gregoricchio/power4omics" align="left" height=30/>](https://github.com/sebastian-gregoricchio)
-
+[<img src="https://contrib.rocks/image?repo=sebastian-gregoricchio/power4peaks" align="left" height=30/>](https://github.com/sebastian-gregoricchio)
 
 
 
@@ -167,3 +183,4 @@ An R-package for power and sample size calculcation for omics data.
 ----------------------------------------------------------------------------------------------
 
 ![Visitor count: ](https://profile-counter.glitch.me/sebastian-gregoricchio/count.svg)
+
