@@ -108,7 +108,7 @@ Snakemake pipeline for analysis and normalization of Hi-C data starting from fas
 
 Snakemake pipline for the mapping and gene read counting of RNA-seq data using STAR.
 
-[<img src="https://contrib.rocks/image?repo=sebastian-gregoricchio/STARna" align="left" height=30/>](https://github.com/sebastian-gregoricchio)
+<img src="https://contrib.rocks/image?repo=sebastian-gregoricchio/STARna" align="left" height=30/>
 
 <br/><br/>
 
@@ -129,7 +129,7 @@ Snakemake pipline for the mapping and gene read counting of RNA-seq data using S
 
 An R-package to impute, normalize and perform differential analyses on proteomics data (LFQ-based) 
 
-<img src="https://badges.pufler.dev/contributors/sebastian-gregoricchio/DEprot?size=50&padding=5&bots=true" align="left" height=30/>
+<img src="https://contrib.rocks/image?repo=sebastian-gregoricchio/DEprot" align="left" height=30/>
 
 <br/><br/>
 
@@ -183,4 +183,5 @@ An R-package for power and sample size calculcation for ChIP/ATAC/CUT&Tag data d
 ----------------------------------------------------------------------------------------------
 
 ![Visitor count: ](https://profile-counter.glitch.me/sebastian-gregoricchio/count.svg)
+
 
